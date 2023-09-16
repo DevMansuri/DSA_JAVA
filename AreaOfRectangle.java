@@ -13,7 +13,7 @@ public class AreaOfRectangle {
         double length = scanner.nextDouble();
 
         double area = length * width ;
-        System.out.println("Area of Triangle is : " + area);
+        System.out.println("Area of Rectangle is : " + area);
 
     }
 }
